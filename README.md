@@ -39,6 +39,17 @@ The project provides:
 - A causal graphical model representing relationships between variables.
 
 
+## Using This Project:
+1. Clone the repository using `git clone https://github.com/Radhwane-py/Causal_Analysis_of_Productivity` and then run the command `cd Causal_Analysis_of_Productivity`
+2. Ensure that you have all the required libraries installed or run the command `pip install -r requirements.txt` in your terminal.
+3. Ensure that your original dataset is in CSV format and contains the necessary information about the employees of your company. **feel free to change any part of this repository to fit your requirements**
+4. Make sure that your dataset contains **traitment** feature upon which you want to lead the study.
+5. Modify the filepath in `main.py` to point to your original dataset location.
+6. Run the command `python main.py` to execute the project and see the intended project is significant or not and make your data driven decision.
 
 
-[Radhwane Benaissa]
+**Author:**
+
+This project was developed by           **RADHWANE BENAISSA**.
+Contributions and suggestions are welcome.
+Please feel free to raise issues or submit requests.

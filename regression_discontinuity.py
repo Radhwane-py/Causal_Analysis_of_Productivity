@@ -20,6 +20,7 @@ def regression_discontinuity(df):
     plt.xlabel('Pre-treatment Productivity')
     plt.ylabel('Productivity Change')
     plt.title('Regression Discontinuity Visualization')
+    plt.savefig('regression_discontinuity_visualization.png')
     plt.show()
     
     return rd_effect
