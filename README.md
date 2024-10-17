@@ -45,7 +45,7 @@ The project provides:
 3. Ensure that your original dataset is in CSV format and contains the necessary information about the employees of your company. **feel free to change any part of this repository to fit your requirements**
 4. Make sure that your dataset contains **traitment** feature upon which you want to lead the study.
 5. Modify the filepath in `main.py` to point to your original dataset location.
-6. Run the command `python main.py` to execute the project and see the intended project is significant or not and make your data driven decision.
+6. Run the command `python main.py` to execute the project and see wether the intended step led by your company is significant or not and make your data driven decisions.
 
 
 **Author:**
